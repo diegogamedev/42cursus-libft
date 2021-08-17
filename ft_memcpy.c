@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memcpy.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dienasci <diego.nascimentomartins2@gmail.c +#+  +:+       +#+        */
+/*   By: dienasci <dienasci@student.42sp.org.br >   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/12 21:04:38 by dienasci          #+#    #+#             */
-/*   Updated: 2021/08/14 17:58:30 by dienasci         ###   ########.fr       */
+/*   Updated: 2021/08/17 09:29:46 by dienasci         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

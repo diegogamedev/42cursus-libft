@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memcmp.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dienasci <diego.nascimentomartins2@gmail.c +#+  +:+       +#+        */
+/*   By: dienasci <dienasci@student.42sp.org.br >   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/12 21:04:32 by dienasci          #+#    #+#             */
-/*   Updated: 2021/08/14 17:36:54 by dienasci         ###   ########.fr       */
+/*   Updated: 2021/08/17 09:29:43 by dienasci         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

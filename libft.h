@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dienasci <diego.nascimentomartins2@gmail.c +#+  +:+       +#+        */
+/*   By: dienasci <dienasci@student.42sp.org.br >   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/12 22:35:22 by dienasci          #+#    #+#             */
-/*   Updated: 2021/08/16 15:46:46 by dienasci         ###   ########.fr       */
+/*   Updated: 2021/08/17 14:45:01 by dienasci         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,7 +31,16 @@ int		ft_isascii(int	c);
 int		ft_isdigit(int	c);
 int		ft_isprint(int	c);
 char	*ft_itoa(int n);
-void	*ft_memchr(const void	*str, int c, size_t n);
+void	ft_lstadd_front(t_list **lst, t_list *new);
+void	ft_lstadd_back(t_list **lst, t_list *new);
+void	ft_lstclear(t_list **lst, void (*del)(void *));
+void	ft_lstdelone(t_list *lst, void (*del)(void *));
+t_list	*ft_lstlast(t_list *lst);
+t_list	*ft_lstnew(void *content);
+int		ft_lstsize(t_list *lst);
+void	ft_lstiter(t_list *lst, void (*f)(void *));
+t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
+void	*ft_memchr(const void *str, int c, size_t n);
 int		ft_memcmp(void	*str1, void	*str2, size_t n);
 void	*ft_memcpy(void *dest, const void *src, size_t n);
 void	*ft_memmove(void *dest, const void *src, size_t n);

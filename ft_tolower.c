@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_tolower.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dienasci <diego.nascimentomartins2@gmail.c +#+  +:+       +#+        */
+/*   By: dienasci <dienasci@student.42sp.org.br >   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/12 21:20:08 by dienasci          #+#    #+#             */
-/*   Updated: 2021/08/12 21:20:09 by dienasci         ###   ########.fr       */
+/*   Updated: 2021/08/17 09:30:03 by dienasci         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

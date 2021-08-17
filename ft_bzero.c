@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bzero.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dienasci <diego.nascimentomartins2@gmail.c +#+  +:+       +#+        */
+/*   By: dienasci <dienasci@student.42sp.org.br >   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/12 20:58:57 by dienasci          #+#    #+#             */
-/*   Updated: 2021/08/14 17:50:13 by dienasci         ###   ########.fr       */
+/*   Updated: 2021/08/17 09:29:32 by dienasci         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
